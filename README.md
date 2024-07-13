@@ -3,11 +3,11 @@
 This project is an E-Learning Education Website developed using HTML, CSS, SCSS, Bootstrap, and Vanilla JavaScript. The website is designed to provide a seamless and engaging learning experience with a clean and intuitive interface.
 
 ## Table of Contents
-- [Features]
-- [Installation]
-- [Usage]
-- [Code Structure]
-- [Contributing]
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Code Structure](#code_structure)
+- [Contributing](#contributing)
 
 ## Features
 
@@ -70,3 +70,5 @@ Contributions are welcome! If you have any suggestions or improvements, please f
 - Commit your changes (git commit -m 'Add some feature').
 - Push to the branch (git push origin feature/your-feature).
 - Open a pull request.
+
+# page is live https://famous-arithmetic-9d96ee.netlify.app
