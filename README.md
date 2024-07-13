@@ -3,11 +3,11 @@
 This project is an E-Learning Education Website developed using HTML, CSS, SCSS, Bootstrap, and Vanilla JavaScript. The website is designed to provide a seamless and engaging learning experience with a clean and intuitive interface.
 
 ## Table of Contents
----[Features]---
----[Installation]---
----[Usage]---
----[Code Structure]---
----[Contributing]---
+- [Features]
+- [Installation]
+- [Usage]
+- [Code Structure]
+- [Contributing]
 
 ## Features
 
